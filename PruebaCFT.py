@@ -30,3 +30,7 @@ print("su apellido es: ", b)
 print("su nombre completo es: ", a, b)
 # Prueba de Git
 print("Prueba de Git")
+
+a=5
+b=10
+print("La suma de a y b es: ", a + b)
