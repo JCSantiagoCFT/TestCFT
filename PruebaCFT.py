@@ -19,3 +19,10 @@ def multiplicacion(a, b):
     return a * b
 def division(a, b):
     return a / b   
+
+#prueba de git cambios carlos alfaro
+
+a=input("ingrse su nombre")
+b=input("ingrese su apellido")
+print("su nombre es: ", a)
+print("su apellido es: ", b)
