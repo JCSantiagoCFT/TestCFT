@@ -26,3 +26,6 @@ a=input("ingrse su nombre")
 b=input("ingrese su apellido")
 print("su nombre es: ", a)
 print("su apellido es: ", b)
+
+print("su nombre completo es: ", a, b)
+# Prueba de Git
