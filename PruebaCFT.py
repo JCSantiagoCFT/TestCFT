@@ -1,3 +1,8 @@
 print("Estoy en su repositorio")
 print ("hola mundo")
 print("Pikachu")
+#carlos alfaro
+a=int(input("Ingrese un numero: "))
+b=int(input("Ingrese otro numero: ")) 
+suma=a+b
+print("La suma de los dos numeros es: ", suma)
