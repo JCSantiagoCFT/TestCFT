@@ -9,3 +9,13 @@ print("La suma de los dos numeros es: ", suma)
 
 # Prueba de Git
 print("Prueba de Git")
+
+# carlos alfaro
+def suma(a, b):
+    return a + b 
+def resta(a, b):
+    return a - b  
+def multiplicacion(a, b):
+    return a * b
+def division(a, b):
+    return a / b   
